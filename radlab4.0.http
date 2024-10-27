@@ -1,0 +1,6 @@
+@radlab4._0_HostAddress = http://localhost:5040
+
+GET {{radlab4._0_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="../build/radlab4.0.props" />
+</Project>
